@@ -6,7 +6,7 @@
 
 <body> 
 	<h1>PHP 2021  Test</h1>
-		<p><b>  sonal pareek frm  CITIBANK </b></p>
+		<p><b>  sonal pareek frm  test CITIBANK </b></p>
 		<?php echo "The Current Date and yes las  Time is: <br />";
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information VERSION1 </h2> 
